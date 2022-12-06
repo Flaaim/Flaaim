@@ -3,6 +3,7 @@
 - https://med-checkup.ru/ - приложение для создания и выдачи направлений на медицинские осмотры. (стек: Laravel, Mysql, bootstrap, немного Jquery и ajax).  репозиторий: https://github.com/Flaaim/medCheckUp
 
 #### дополнительно:
+ - https://flaaim.github.io/ сайт на jekyll просто для заметок. 
  - https://github.com/Flaaim/template Шаблон для контейнерезации laravel проекта (php-fpm, nginx, mysql, phpmyadmin)
 
 #### Когда то давно работал: 
