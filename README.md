@@ -5,6 +5,7 @@
 #### дополнительно:
  - https://flaaim.github.io/ сайт на jekyll просто для заметок. 
  - https://github.com/Flaaim/template Шаблон для контейнерезации laravel проекта (php-fpm, nginx, mysql, phpmyadmin)
+ - https://github.com/Flaaim/slim_template Шаблон для slim.
 
 #### Когда то давно работал: 
 - https://help-ot.ru - блог по охране труда, написал его еще давно в процедурном стиле. (PHP, mysql)
