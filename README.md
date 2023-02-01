@@ -1,6 +1,7 @@
 ### Привет! :wave:
 #### В настоящий момент я работаю над:
 - https://med-checkup.ru/ - приложение для создания и выдачи направлений на медицинские осмотры. (стек: Laravel, Mysql, bootstrap, немного Jquery и ajax).  репозиторий: https://github.com/Flaaim/medCheckUp
+- https://github.com/Flaaim/prsng_news - парсинг новостей/документов.
 
 #### дополнительно:
  - https://flaaim.github.io/ сайт на jekyll просто для заметок. 
