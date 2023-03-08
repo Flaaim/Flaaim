@@ -6,6 +6,7 @@
 #### дополнительно:
  - https://flaaim.github.io/ сайт на jekyll просто для заметок. 
  - https://github.com/Flaaim/php-skeleton скелет для проекта на php
+ - https://github.com/Flaaim/Router - простой роутер.
  - https://github.com/Flaaim/slim_template Шаблон для slim.
 
 #### Когда то давно работал: 
